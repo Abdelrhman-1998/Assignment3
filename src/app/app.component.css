@@ -1,0 +1,10 @@
+.input{
+    margin:10px;
+}
+p{
+    margin: 10px;
+    min-width: 300px;
+    max-width: fit-content;
+    padding: 10px;
+    background: wheat;
+}
